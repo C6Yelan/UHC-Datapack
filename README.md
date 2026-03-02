@@ -244,7 +244,7 @@ A: 重點是展示如何把 UHC 活動需求拆成可配置、可執行、可收
 
 ## Credits
 
-- Author: Ayaya
+- Author: C6Yelan
 - Context: 朋友社群 UHC 活動實戰需求
 - Acknowledgement: 感謝當時參與測試與活動執行的朋友們
 - Leaderboard wording attribution:
