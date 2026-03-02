@@ -1,0 +1,1 @@
+tellraw @a {"text":"","extra":["",{"text":"【","bold":true,"color":"dark_blue"},{"text":"UHC","color":"gold","bold":true},{"text":"】","bold":true,"color":"dark_blue"},{"text":"1","color":"dark_red","bold":true},{"text":"秒後將會清怪","color":"gold"}]}

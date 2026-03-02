@@ -1,0 +1,3 @@
+execute at @a[tag=admin] run playsound minecraft:ui.toast.challenge_complete master @p ~ ~ ~ 0.5 2
+tellraw @a[tag=admin] ["",{"text":"【","color":"gold"},{"text":"阿賢UHC輔助資料包","color":"blue"},{"text":" v","color":"green"},{"text":"1.1.2","color":"dark_aqua"},{"text":"】","color":"gold"},{"text":"載入","color":"blue"},{"text":"成功","color":"green"}]
+tellraw @a[tag=admin] {"text":"【安裝此資料包】","bold":true,"color":"dark_green","clickEvent":{"action":"run_command","value":"/function idk:setup"},"hoverEvent":{"action":"show_text","contents":{"text":"點擊此來安裝此資料包","bold":true,"color":"gold"}}}

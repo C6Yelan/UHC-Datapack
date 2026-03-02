@@ -1,0 +1,1 @@
+function idk:glowing/enable

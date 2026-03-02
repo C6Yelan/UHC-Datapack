@@ -1,0 +1,2 @@
+scoreboard players set glowing glowing 1
+tellraw @a {"text":"","extra":["",{"text":"【","bold":true,"color":"dark_blue"},{"text":"UHC","color":"gold","bold":true},{"text":"】","bold":true,"color":"dark_blue"},{"text":"發光已","color":"gold"},{"text":"啟用!","color":"green"}]}

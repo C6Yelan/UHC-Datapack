@@ -1,0 +1,38 @@
+gamerule doMobLoot false
+gamerule doMobSpawning false
+tellraw @a {"text":"","extra":["",{"text":"【","bold":true,"color":"dark_blue"},{"text":"UHC","color":"gold"},{"text":"】","bold":true,"color":"dark_blue"},{"text":"系統已清怪!","color":"gold"}]}
+kill @e[type=enderman]
+kill @e[type=piglin]
+kill @e[type=spider]
+kill @e[type=cave_spider]
+kill @e[type=zombified_piglin]
+kill @e[type=blaze]
+kill @e[type=creeper]
+kill @e[type=drowned]
+kill @e[type=elder_guardian]
+kill @e[type=endermite]
+kill @e[type=evoker]
+kill @e[type=ghast]
+kill @e[type=guardian]
+kill @e[type=hoglin]
+kill @e[type=husk]
+kill @e[type=magma_cube]
+kill @e[type=phantom]
+kill @e[type=pillager]
+kill @e[type=ravager]
+kill @e[type=shulker]
+kill @e[type=silverfish]
+kill @e[type=skeleton]
+kill @e[type=slime]
+kill @e[type=stray]
+kill @e[type=vex]
+kill @e[type=vindicator]
+kill @e[type=witch]
+kill @e[type=wither_skeleton]
+kill @e[type=zoglin]
+kill @e[type=zombie]
+kill @e[type=zombie_villager]
+kill @e[type=piglin_brute]
+
+difficulty peaceful
+schedule function idk:nomobs/hard 1s

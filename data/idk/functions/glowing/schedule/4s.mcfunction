@@ -1,0 +1,2 @@
+execute at @a run playsound minecraft:block.note_block.pling master @p ~ ~ ~ 0.5 2
+tellraw @a {"text":"","extra":["",{"text":"【","bold":true,"color":"dark_blue"},{"text":"UHC","color":"gold","bold":true},{"text":"】","bold":true,"color":"dark_blue"},{"text":"發光將在","color":"gold"},{"text":"4","color":"green","bold":true},{"text":"秒後啟用!","color":"gold"}]}

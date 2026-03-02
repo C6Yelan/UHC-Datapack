@@ -1,0 +1,1 @@
+tellraw @a {"text":"","extra":["",{"text":"【","bold":true,"color":"dark_blue"},{"text":"UHC","color":"gold","bold":true},{"text":"】","bold":true,"color":"dark_blue"},{"text":"發光將在","color":"gold"},{"text":"3","color":"dark_purple","bold":true},{"text":"分鐘後啟用!","color":"gold"}]}
